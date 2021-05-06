@@ -36,7 +36,7 @@ const config: MenuEntry[] = [
     items: [
       {
         label: 'Layer1',
-        href: '/soon',
+        href: 'https://layer1.aotfinance.com',
       },
     ],
   },
