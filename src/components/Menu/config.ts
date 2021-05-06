@@ -30,21 +30,16 @@ const config: MenuEntry[] = [
     icon: 'PoolIcon',
     href: '/maria',
   },
-  // {
-  //   label: 'Pools',
-  //   icon: 'PoolIcon',
-  //   href: '/pools',
-  // },
-  // {
-  //   label: 'Lottery',
-  //   icon: 'TicketIcon',
-  //   href: '/lottery',
-  // },
-  // {
-  //   label: 'NFT',
-  //   icon: 'NftIcon',
-  //   href: '/nft',
-  // },
+  {
+    label: 'Layered Farming',
+    icon: 'LayerIcon',
+    items: [
+      {
+        label: 'Layer1',
+        href: '/soon',
+      },
+    ],
+  },
   {
     label: 'More',
     icon: 'MoreIcon',
