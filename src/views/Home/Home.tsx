@@ -11,7 +11,8 @@ import TwitterCard from './components/TwitterCard'
 
 const Hero = styled.div`
   align-items: center;
-  background-image: url('/images/egg/3.png');
+  background-image: url('/images/egg/bg.png');
+  background-size: cover;
   background-repeat: no-repeat;
   background-position: top center;
   display: flex;
@@ -19,13 +20,11 @@ const Hero = styled.div`
   flex-direction: column;
   margin: auto;
   margin-bottom: 32px;
-  padding-top: 116px;
   text-align: center;
-  background-size: contain;
 
   ${({ theme }) => theme.mediaQueries.lg} {
-    background-image: url('/images/egg/3.png'), url('/images/egg/3b.png');
-    background-position: left center, right center;
+    background-image: url('/images/egg/ban.png');
+    background-position: center center, right center;
     height: 165px;
     padding-top: 0;
   }
