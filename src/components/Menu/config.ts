@@ -21,7 +21,7 @@ const config: MenuEntry[] = [
     ],
   },
   {
-    label: 'Hunter FARMS (V2 LP)',
+    label: 'Hunter Farms (V2 LP)',
     icon: 'FarmIcon',
     href: '/farms',
   },

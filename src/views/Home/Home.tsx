@@ -63,7 +63,7 @@ const Home: React.FC = () => {
     <Page>
       <Hero>
         <Heading font-size="40px" font-weight="600" mb="24px" color="#66FCF1">GrizzlySwap</Heading>
-        <Text font-size="40px" font-weight="600" mb="24px" color="#66FCF1">GrizzlySwap</Text>
+        <p font-size="40px" font-weight="600" margin-bottom="24px" color="#66FCF1">GrizzlySwap</p>
         <Text color="white" font-size="16px" font-weight="400" line-height="1.5">Your Next Generation Yield Farm. Ready To Hunt and Dominate</Text>
         <Text color="white" font-size="16px" font-weight="400" line-height="1.5">Fair Launch On: <a href="https://bscscan.com/block/countdown/7133000">Block 7133000</a></Text>
       </Hero>
