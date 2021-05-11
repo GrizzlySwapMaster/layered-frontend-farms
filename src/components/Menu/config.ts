@@ -21,25 +21,61 @@ const config: MenuEntry[] = [
     ],
   },
   {
-    label: 'Wall Rose',
+    label: 'HUNTER FARMS (V2 LP)',
     icon: 'FarmIcon',
-    href: '/rose',
+    href: '/farms',
   },
   {
-    label: 'Wall Maria',
+    label: 'PREY STAKING (V2)',
     icon: 'PoolIcon',
-    href: '/maria',
+    href: '/pools',
+  },
+
+  {
+    label: 'LAYERED FARMING (23 MAY)',
+    icon: 'FarmIcon',
+    href: '/pools',
+  },
+
+  {
+    label: 'TechRate Audit',
+    icon: 'AuditIcon',
+    href: '/',
   },
   {
-    label: 'Layered Farming',
-    icon: 'LayerIcon',
+    label: 'Emission Reduction Mechanism',
+    icon: 'GroupsIcon',
+    href: '/',
+  },
+  {
+    label: 'RoadMap',
+    icon: 'RoadmapIcon',
+    href: '/',
+  },
+  {
+    label: 'Listing (Pending)',
+    icon: 'IfoIcon',
+    href: '/',
+  },
+  {
+    label: 'Price Chart',
+    icon: 'InfoIcon',
     items: [
       {
-        label: 'Layer1',
-        href: 'https://layer1.aotfinance.com',
+        label: 'PooCoin',
+        href: '/',
+      },
+      {
+        label: 'DexGuru',
+        href: '/',
+      },
+      {
+        label: 'DexTools',
+        href: '/'
       },
     ],
   },
+  
   {
     label: 'More',
     icon: 'MoreIcon',
