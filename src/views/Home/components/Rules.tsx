@@ -15,6 +15,7 @@ const StyledRules = styled(Card)`
   background-repeat: no-repeat;
   background-position: right;
   min-height: 376px;
+  background-size: cover;
 `
 
 const Row = styled.div`
