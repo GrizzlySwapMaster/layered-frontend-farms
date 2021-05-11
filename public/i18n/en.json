@@ -75,7 +75,7 @@
     {
       "data": {
         "stringId": 304,
-        "text": "Total AOT burned since launch"
+        "text": "Total GRZ burned since launch"
       }
     },
     {
@@ -795,7 +795,7 @@
     {
       "data": {
         "stringId": 590,
-        "text": "\u2b50\ufe0f Every time you stake and unstake LP tokens, the contract will automatically harvest AOT rewards for you!"
+        "text": "\u2b50\ufe0f Every time you stake and unstake LP tokens, the contract will automatically harvest GRZ rewards for you!"
       }
     },
     {
@@ -813,13 +813,13 @@
     {
       "data": {
         "stringId": 596,
-        "text": "Buy AOT and BNB tokens"
+        "text": "Buy GRZ and BNB tokens"
       }
     },
     {
       "data": {
         "stringId": 598,
-        "text": "Get AOT-BNB LP tokens by adding AOT and BNB liquidity"
+        "text": "Get GRZ-BNB LP tokens by adding GRZ and BNB liquidity"
       }
     },
     {
@@ -831,7 +831,7 @@
     {
       "data": {
         "stringId": 602,
-        "text": "While the sale is live, commit your AOT-LP tokens to buy the IFO tokens"
+        "text": "While the sale is live, commit your GRZ-LP tokens to buy the IFO tokens"
       }
     },
     {
@@ -867,7 +867,7 @@
     {
       "data": {
         "stringId": 614,
-        "text": "Trade in for AOT, or keep for your collection!"
+        "text": "Trade in for GRZ, or keep for your collection!"
       }
     },
     {
@@ -909,7 +909,7 @@
     {
       "data": {
         "stringId": 628,
-        "text": "When you trade in this NFT to receive AOT, you will lose access to it forever!"
+        "text": "When you trade in this NFT to receive GRZ, you will lose access to it forever!"
       }
     },
     {
@@ -939,7 +939,7 @@
     {
       "data": {
         "stringId": 638,
-        "text": "Winners can trade in their NFTs for a AOT value until the expiry date written below. If you don't trade in your NFT by then, don\u2019t worry: you\u2019ll still keep it in your wallet!"
+        "text": "Winners can trade in their NFTs for a GRZ value until the expiry date written below. If you don't trade in your NFT by then, don\u2019t worry: you\u2019ll still keep it in your wallet!"
       }
     },
     {
@@ -981,7 +981,7 @@
     {
       "data": {
         "stringId": 654,
-        "text": "Trade in for AOT"
+        "text": "Trade in for GRZ"
       }
     },
     {
@@ -1107,7 +1107,7 @@
     {
       "data": {
         "stringId": 696,
-        "text": "Stake LP tokens to earn AOT"
+        "text": "Stake LP tokens to earn GRZ"
       }
     },
     {
@@ -1149,13 +1149,13 @@
     {
       "data": {
         "stringId": 708,
-        "text": "The AOT Lottery"
+        "text": "The GRZ Lottery"
       }
     },
     {
       "data": {
         "stringId": 710,
-        "text": "Buy tickets with AOT"
+        "text": "Buy tickets with GRZ"
       }
     },
     {
@@ -1209,7 +1209,7 @@
     {
       "data": {
         "stringId": 10000,
-        "text": "Deposit Fee will be used to buyback AOT"
+        "text": "Deposit Fee will be used to buyback GRZ"
       }
     },
     {
@@ -1221,7 +1221,7 @@
     {
       "data": {
         "stringId": 10002,
-        "text": "Stake tokens to earn AOT"
+        "text": "Stake tokens to earn GRZ"
       }
     },
     {
