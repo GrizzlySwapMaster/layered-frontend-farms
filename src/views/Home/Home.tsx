@@ -23,7 +23,7 @@ const Hero = styled.div`
   text-align: center;
 
   ${({ theme }) => theme.mediaQueries.lg} {
-    background-image: url('/images/egg/ban.png');
+    background-image: url('/images/egg/bg.png');
     background-position: center center, right center;
     height: 165px;
     padding-top: 0;
@@ -59,11 +59,9 @@ const Home: React.FC = () => {
   return (
     <Page>
       <Hero>
-        <Heading as="h1" size="md" mb="24px" color="primary">Farming Starts: <a href="https://bscscan.com/block/countdown/7133000">Block 7133000</a></Heading>
-        <Heading as="h1" size="xl" mb="24px" color="secondary">
-          {TranslateString(576, 'Titan Finance')}
-        </Heading>
-        <Text>{TranslateString(578, 'Yield farm on Binance Smart Chain.')}</Text>
+        <Heading as="h1" size="md" mb="24px" color="#66FCF1">GRIZZLY SWAP<a href="https://bscscan.com/block/countdown/7133000">Block 7133000</a></Heading>
+        <Text color="white">Your Next Generation Yield Farm. Ready To Hunt and Dominate</Text>
+        <Text color="white">Fair Launch On:</Text>
       </Hero>
       <div>
         <Cards>

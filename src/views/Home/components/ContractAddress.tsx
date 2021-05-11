@@ -8,7 +8,7 @@ import { getCakeAddress } from 'utils/addressHelpers'
 import CardValue from './CardValue'
 import { useFarms } from '../../../state/hooks'
 
-const StyledRules = styled(Card)`
+const StyledContractAddress = styled(Card)`
   margin-left: auto;
   margin-right: auto;
 `
@@ -23,11 +23,11 @@ const Row = styled.div`
 
 // toChange
 
-const Rules = () => {
+const ContractAddress = () => {
   const TranslateString = useI18n()
 
   return (
-    <StyledRules>
+    <StyledContractAddress>
       <CardBody>
         <Heading color="white" size="xl" mb="24px">
           Information and Rules
@@ -42,8 +42,8 @@ const Rules = () => {
           <li> HIGH RISK. Understand the Risks! </li>
         </ul>
       </CardBody>
-    </StyledRules>
+    </StyledContractAddress>
   )
 }
 
-export default Rules
+export default ContractAddress

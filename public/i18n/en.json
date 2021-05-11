@@ -123,13 +123,13 @@
     {
       "data": {
         "stringId": 320,
-        "text": "Stake LP tokens to earn AOT"
+        "text": "Stake LP tokens to earn GRZ"
       }
     },
     {
       "data": {
         "stringId": 322,
-        "text": "Stake AOT"
+        "text": "Stake GRZ"
       }
     },
     {
@@ -153,7 +153,7 @@
     {
       "data": {
         "stringId": 334,
-        "text": "Every time you stake and unstake AOT tokens, the contract will automatically harvest AOT rewards for you!"
+        "text": "Every time you stake and unstake GRZ tokens, the contract will automatically harvest GRZ rewards for you!"
       }
     },
     {
@@ -219,7 +219,7 @@
     {
       "data": {
         "stringId": 358,
-        "text": "Titan price"
+        "text": "Grizzly price"
       }
     },
     {
@@ -243,7 +243,7 @@
     {
       "data": {
         "stringId": 380,
-        "text": "1 AOT = 1 SYRUP"
+        "text": "1 GRZ = 1 SYRUP"
       }
     },
     {
@@ -291,7 +291,7 @@
     {
       "data": {
         "stringId": 400,
-        "text": "SYRUP holders proportionally split 25% of AOT block emissions each day (10 AOT per block), Rewards are distributed each block."
+        "text": "SYRUP holders proportionally split 25% of GRZ block emissions each day (10 GRZ per block), Rewards are distributed each block."
       }
     },
     {
@@ -351,13 +351,13 @@
     {
       "data": {
         "stringId": 424,
-        "text": "%num% AOT"
+        "text": "%num% GRZ"
       }
     },
     {
       "data": {
         "stringId": 426,
-        "text": "Spend AOT to buy tickets, contributing to the lottery pot. Ticket purchases end approx. 30 minutes before lottery. Win prizes if 2, 3, or 4 of your ticket numbers match the winning numbers and their positions! Good luck!"
+        "text": "Spend GRZ to buy tickets, contributing to the lottery pot. Ticket purchases end approx. 30 minutes before lottery. Win prizes if 2, 3, or 4 of your ticket numbers match the winning numbers and their positions! Good luck!"
       }
     },
     {
@@ -435,19 +435,19 @@
     {
       "data": {
         "stringId": 454,
-        "text": "%num% AOT Available"
+        "text": "%num% GRZ Available"
       }
     },
     {
       "data": {
         "stringId": 456,
-        "text": "Your amount must be a multiple of 10 AOT"
+        "text": "Your amount must be a multiple of 10 GRZ"
       }
     },
     {
       "data": {
         "stringId": 458,
-        "text": "1 Ticket = 10 AOT"
+        "text": "1 Ticket = 10 GRZ"
       }
     },
     {
@@ -495,7 +495,7 @@
     {
       "data": {
         "stringId": 478,
-        "text": "Ticket purchases are final. Your AOT cannot be returned to you after buying tickets."
+        "text": "Ticket purchases are final. Your GRZ cannot be returned to you after buying tickets."
       }
     },
     {
@@ -507,7 +507,7 @@
     {
       "data": {
         "stringId": 482,
-        "text": "AOT prizes to be claimed"
+        "text": "GRZ prizes to be claimed"
       }
     },
     {
@@ -543,13 +543,13 @@
     {
       "data": {
         "stringId": 494,
-        "text": "Approve AOT"
+        "text": "Approve GRZ"
       }
     },
     {
       "data": {
         "stringId": 496,
-        "text": "SYRUP holders proportionally split 40% of AOT block emissions each day (10 AOT per block), Rewards are distributed each block."
+        "text": "SYRUP holders proportionally split 40% of GRZ block emissions each day (10 GRZ per block), Rewards are distributed each block."
       }
     },
     {
@@ -567,19 +567,19 @@
     {
       "data": {
         "stringId": 504,
-        "text": "You\u2019ll pay for the new tokens using AOT-BNB LP tokens, which means you need to stake equal amounts of AOT and BNB in a liquidity pool to take part."
+        "text": "You\u2019ll pay for the new tokens using GRZ-BNB LP tokens, which means you need to stake equal amounts of GRZ and BNB in a liquidity pool to take part."
       }
     },
     {
       "data": {
         "stringId": 506,
-        "text": "Get AOT-BNB LP >"
+        "text": "Get GRZ-BNB LP >"
       }
     },
     {
       "data": {
         "stringId": 508,
-        "text": "The project gets the BNB, Titan Finance burns the AOT."
+        "text": "The project gets the BNB, GrizzlySwap burns the GRZ."
       }
     },
     {
@@ -597,7 +597,7 @@
     {
       "data": {
         "stringId": 514,
-        "text": "Launch your project with Titan Finance, Binance Smart Chain\u2019s most-used AMM project and liquidity provider, to bring your token directly to the most active and rapidly growing community on BSC."
+        "text": "Launch your project with GrizzlySwap, Binance Smart Chain\u2019s most-used AMM project and liquidity provider, to bring your token directly to the most active and rapidly growing community on BSC."
       }
     },
     {
@@ -645,7 +645,7 @@
     {
       "data": {
         "stringId": 534,
-        "text": "Titan Stats"
+        "text": "Grizzly Stats"
       }
     },
     {
@@ -663,7 +663,7 @@
     {
       "data": {
         "stringId": 540,
-        "text": "New AOT\/block"
+        "text": "New GRZ\/block"
       }
     },
     {
@@ -675,19 +675,19 @@
     {
       "data": {
         "stringId": 544,
-        "text": "AOT to Harvest"
+        "text": "GRZ to Harvest"
       }
     },
     {
       "data": {
         "stringId": 546,
-        "text": "AOT in Wallet"
+        "text": "GRZ in Wallet"
       }
     },
     {
       "data": {
         "stringId": 548,
-        "text": "Collecting AOT"
+        "text": "Collecting GRZ"
       }
     },
     {
@@ -699,7 +699,7 @@
     {
       "data": {
         "stringId": 552,
-        "text": "AOT to Collect"
+        "text": "GRZ to Collect"
       }
     },
     {
@@ -753,7 +753,7 @@
     {
       "data": {
         "stringId": 576,
-        "text": "Titan Finance"
+        "text": "GrizzlySwap"
       }
     },
     {
@@ -765,7 +765,7 @@
     {
       "data": {
         "stringId": 580,
-        "text": "Stake AOT to earn new tokens."
+        "text": "Stake GRZ to earn new tokens."
       }
     },
     {
@@ -783,7 +783,7 @@
     {
       "data": {
         "stringId": 586,
-        "text": "AOT to burn (USD)"
+        "text": "GRZ to burn (USD)"
       }
     },
     {

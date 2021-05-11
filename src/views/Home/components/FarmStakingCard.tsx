@@ -18,9 +18,9 @@ import { getBalanceNumber } from '../../../utils/formatBalance'
 const StyledFarmStakingCard = styled(Card)`
   background-image: url('/images/egg/2a.png');
   background-repeat: no-repeat;
-  background-position: top right;
+  background-position: right;
   min-height: 376px;
-  background-size: 60%;
+  background-size: 80% 100%;
 `
 
 const Block = styled.div`
@@ -76,12 +76,12 @@ const FarmedStakingCard = () => {
         </Heading>
         <CardImage src="/images/egg/2.png" alt="cake logo" width={64} height={64} />
         <Block>
-          <Label>{TranslateString(544, 'AOT to Harvest')}</Label>
+          <Label>{TranslateString(544, 'GRZ to Harvest')}</Label>
           <CakeHarvestBalance earningsSum={earningsSum} />
           <Label>~${(eggPrice * earningsSum).toFixed(2)}</Label>
         </Block>
         <Block>
-          <Label>{TranslateString(546, 'AOT in Wallet')}</Label>
+          <Label>{TranslateString(546, 'GRZ in Wallet')}</Label>
           <CakeWalletBalance cakeBalance={cakeBalance} />
           <Label>~${(eggPrice * cakeBalance).toFixed(2)}</Label>
         </Block>
