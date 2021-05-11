@@ -11,10 +11,14 @@ import { useFarms } from '../../../state/hooks'
 const StyledRules = styled(Card)`
   margin-left: auto;
   margin-right: auto;
+  background-image: url('/images/egg/info.png');
+  background-repeat: no-repeat;
+  background-position: right;
+  min-height: 376px;
 `
 
 const Row = styled.div`
-  align-items: left;
+  align-items: center;
   display: flex;
   font-size: 18px;
   justify-content: space-between;
@@ -33,13 +37,13 @@ const Rules = () => {
           Information and Rules
         </Heading>
         <ul>
-          <li> Audited by TechRate </li>
-          <li> Buyback and Burn Mechanism </li>
-          <li> Automatic Emission Reduction  </li>
-          <li> Initital Liquidity Will Be Burned </li>
-          <li> 1/4 of the desposit fees used for buybacks </li>
-          <li> Migrator Code Removed </li>
-          <li> HIGH RISK. Understand the Risks! </li>
+          <Row><li> Audited by TechRate </li></Row>
+          <Row><li> Buyback and Burn Mechanism </li></Row>
+          <Row><li> Automatic Emission Reduction  </li></Row>
+          <Row><li> Initital Liquidity Will Be Burned </li></Row>
+          <Row><li> 1/4 of the desposit fees used for buybacks </li></Row>
+          <Row><li> Migrator Code Removed </li></Row>
+          <Row><li> HIGH RISK. Understand the Risks! </li></Row>
         </ul>
       </CardBody>
     </StyledRules>

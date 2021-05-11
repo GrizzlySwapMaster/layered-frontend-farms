@@ -30,17 +30,13 @@ const ContractAddress = () => {
     <StyledContractAddress>
       <CardBody>
         <Heading color="white" size="xl" mb="24px">
-          Information and Rules
+          GrizzlySwap Contract Address
         </Heading>
         <ul>
-          <li> Audited by TechRate </li>
-          <li> Buyback and Burn Mechanism </li>
-          <li> Automatic Emission Reduction  </li>
-          <li> Initital Liquidity Will Be Burned </li>
-          <li> 1/4 of the desposit fees used for buybacks </li>
-          <li> Migrator Code Removed </li>
-          <li> HIGH RISK. Understand the Risks! </li>
-        </ul>
+          <Row><li> Contract Address: <a href="https://bscscan.com/block/countdown/7133000">Block 7133000</a> </li></Row>
+          <Row><li> MasterChef: <a href="https://bscscan.com/block/countdown/7133000">Block 7133000</a></li></Row>
+          <Row><li> TimeLock:  <a href="https://bscscan.com/block/countdown/7133000">Block 7133000</a></li></Row>
+          </ul>
       </CardBody>
     </StyledContractAddress>
   )

@@ -21,18 +21,18 @@ const config: MenuEntry[] = [
     ],
   },
   {
-    label: 'HUNTER FARMS (V2 LP)',
+    label: 'Hunter FARMS (V2 LP)',
     icon: 'FarmIcon',
     href: '/farms',
   },
   {
-    label: 'PREY STAKING (V2)',
+    label: 'Prey Staking (V2)',
     icon: 'PoolIcon',
     href: '/pools',
   },
 
   {
-    label: 'LAYERED FARMING (23 MAY)',
+    label: "Layered Farming (23RD MAY)",
     icon: 'FarmIcon',
     href: '/pools',
   },
