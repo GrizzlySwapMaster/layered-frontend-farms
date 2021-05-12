@@ -26,7 +26,7 @@ const config: MenuEntry[] = [
     href: '/farms',
   },
   {
-    label: 'Prey Staking (V2)',
+    label: 'Prey Staking',
     icon: 'PoolIcon',
     href: '/pools',
   },
