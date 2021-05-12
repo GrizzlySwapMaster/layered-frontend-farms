@@ -37,7 +37,7 @@ const ContractAddress = () => {
           <Row><li> MasterChef: <a href="https://bscscan.com/address/0x6aD77aEB7fc86751f375EA1711Dc2CB25c9d4d16">0x6aD77aEB7fc86751f375EA1711Dc2CB25c9d4d16</a></li></Row>
           <Row><li> TimeLock:  <a href="https://bscscan.com/address/0xF5dA3062EF9786e4C20Cb0de4541D1d00D344eC6">0xF5dA3062EF9786e4C20Cb0de4541D1d00D344eC6</a></li></Row>
           </ul>
-          <Row color="#66FCF1"> <a href="https://bscscan.com/block/countdown/7133000">Purchase GRZ Here</a> </Row>
+          <Row color="#66FCF1"> <a href="https://exchange.pancakeswap.finance/#/swap?outputCurrency=0xDf5a096D33dE84b11041A7FF78E7008c328184ab">Purchase GRZ Here</a> </Row>
       </CardBody>
     </StyledContractAddress>
   )
