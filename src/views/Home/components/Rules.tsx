@@ -38,8 +38,9 @@ const Rules = () => {
           Information and Rules
         </Heading>
         <ul>
-          <Row><li> Audited by TechRate </li></Row>
+          <Row><li> Pending Audit by TechRate </li></Row>
           <Row><li> Buyback and Burn Mechanism </li></Row>
+          <Row><li> Deflationary Mechanism with 2% Transfer Tax </li></Row>
           <Row><li> Automatic Emission Reduction  </li></Row>
           <Row><li> Initital Liquidity Will Be Burned </li></Row>
           <Row><li> 1/4 of the desposit fees used for buybacks </li></Row>

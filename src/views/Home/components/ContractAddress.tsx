@@ -33,10 +33,13 @@ const ContractAddress = () => {
           GrizzlySwap Contract Address
         </Heading>
         <ul>
-          <Row><li> Contract Address: <a href="https://bscscan.com/block/countdown/7133000">Block 7133000</a> </li></Row>
-          <Row><li> MasterChef: <a href="https://bscscan.com/block/countdown/7133000">Block 7133000</a></li></Row>
-          <Row><li> TimeLock:  <a href="https://bscscan.com/block/countdown/7133000">Block 7133000</a></li></Row>
+          <Row><li> Contract Address: <a href="https://bscscan.com/address/0xDf5a096D33dE84b11041A7FF78E7008c328184ab">0xDf5a096D33dE84b11041A7FF78E7008c328184ab</a> </li></Row>
+          <Row><li> MasterChef: <a href="https://bscscan.com/address/0x6aD77aEB7fc86751f375EA1711Dc2CB25c9d4d16">0x6aD77aEB7fc86751f375EA1711Dc2CB25c9d4d16</a></li></Row>
+          <Row><li> TimeLock:  <a href="https://bscscan.com/address/0xF5dA3062EF9786e4C20Cb0de4541D1d00D344eC6">0xF5dA3062EF9786e4C20Cb0de4541D1d00D344eC6</a></li></Row>
           </ul>
+          <Row></Row>
+          <Row></Row>
+          <Row color="#66FCF1"> <a href="https://bscscan.com/block/countdown/7133000">Purchase GRZ Here</a>  </Row>
       </CardBody>
     </StyledContractAddress>
   )

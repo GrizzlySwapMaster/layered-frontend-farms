@@ -4,7 +4,7 @@ const config: MenuEntry[] = [
   {
     label: 'Home',
     icon: 'HomeIcon',
-    href: '/',
+    href: '/home',
   },
   {
     label: 'Trade',
@@ -34,11 +34,11 @@ const config: MenuEntry[] = [
   {
     label: "Layered Farming (23RD MAY)",
     icon: 'FarmIcon',
-    href: '/pools',
+    href: '/',
   },
 
   {
-    label: 'TechRate Audit',
+    label: 'TechRate Audit (Pending)',
     icon: 'AuditIcon',
     href: '/',
   },
@@ -63,16 +63,8 @@ const config: MenuEntry[] = [
     items: [
       {
         label: 'PooCoin',
-        href: '/',
-      },
-      {
-        label: 'DexGuru',
-        href: '/',
-      },
-      {
-        label: 'DexTools',
-        href: '/'
-      },
+        href: 'https://poocoin.app/tokens/0xdf5a096d33de84b11041a7ff78e7008c328184ab',
+      }
     ],
   },
   
@@ -82,15 +74,15 @@ const config: MenuEntry[] = [
     items: [
       {
         label: 'Github',
-        href: 'https://github.com/titandefi',
+        href: '/',
       },
       {
         label: 'Docs',
-        href: 'https://titandefi.gitbook.io/titan-finance/',
+        href: '/',
       },
       {
         label: 'Blog',
-        href: 'https://titandefi.medium.com/rise-of-the-titan-5057e7cc3a3d'
+        href: '/'
       },
     ],
   },

@@ -1837,7 +1837,7 @@
 
 "@pancakeswap-libs/uikit@GrizzlySwapMaster/goose-uikit":
   version "0.10.2"
-  resolved "https://codeload.github.com/GrizzlySwapMaster/goose-uikit/tar.gz/27430985771e14f092fdda4b7ad474657c1b67e6"
+  resolved "https://codeload.github.com/GrizzlySwapMaster/goose-uikit/tar.gz/cecfaed6da69a8612048d26065df6f8fe3fb9a97"
   dependencies:
     "@types/lodash" "^4.14.162"
     "@types/styled-system" "^5.1.10"
@@ -2373,9 +2373,9 @@
   integrity sha1-7ihweulOEdK4J7y+UnC86n8+ce4=
 
 "@types/lodash@^4.14.162":
-  version "4.14.168"
-  resolved "https://registry.yarnpkg.com/@types/lodash/-/lodash-4.14.168.tgz#fe24632e79b7ade3f132891afff86caa5e5ce008"
-  integrity sha512-oVfRvqHV/V6D1yifJbVRU3TMp8OT6o6BG+U9MkwuJ3U8/CsDHvalRpsxBqivn71ztOFZBTfJMvETbqHiaNSj7Q==
+  version "4.14.169"
+  resolved "https://registry.yarnpkg.com/@types/lodash/-/lodash-4.14.169.tgz#83c217688f07a4d9ef8f28a3ebd1d318f6ff4cbb"
+  integrity sha512-DvmZHoHTFJ8zhVYwCLWbQ7uAbYQEk52Ev2/ZiQ7Y7gQGeV9pjBqjnQpECMHfKS1rCYAhMI7LHVxwyZLZinJgdw==
 
 "@types/minimatch@*":
   version "3.0.3"

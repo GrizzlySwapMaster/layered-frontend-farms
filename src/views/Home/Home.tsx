@@ -40,6 +40,7 @@ const LogoHeading = styled.div`
   font-weight: 600;
   justify-content: space-between;
   margin-bottom: 24px;
+  color="#66FCF1";
 `
 
 const Cards = styled(BaseLayout)`
@@ -71,7 +72,7 @@ const Home: React.FC = () => {
   return (
     <Page>
       <Hero>
-        <LogoHeading color="#66FCF1">GrizzlySwap</LogoHeading>
+        <LogoHeading >GrizzlySwap</LogoHeading>
         <Text color="white" font-size="16px" font-weight="400" line-height="1.5">Your Next Generation Yield Farm. Ready To Hunt and Dominate</Text>
         <Text color="white" font-size="16px" font-weight="400" line-height="1.5">Fair Launch On: <a href="https://bscscan.com/block/countdown/7133000">Block 7133000</a></Text>
       </Hero>
