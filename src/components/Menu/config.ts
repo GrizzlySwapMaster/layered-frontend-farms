@@ -74,15 +74,15 @@ const config: MenuEntry[] = [
     items: [
       {
         label: 'Github',
-        href: '/',
+        href: 'https://github.com/GrizzlySwap',
       },
       {
         label: 'Docs',
-        href: '/',
+        href: 'https://grizzlyswap.medium.com/',
       },
       {
         label: 'Blog',
-        href: '/'
+        href: 'https://grizzlyswap.gitbook.io/grizzly-swap/'
       },
     ],
   },
