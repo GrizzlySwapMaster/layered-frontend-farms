@@ -45,12 +45,12 @@ const config: MenuEntry[] = [
   {
     label: 'Emission Reduction Mechanism',
     icon: 'GroupsIcon',
-    href: '/',
+    href: 'https://grizzlyswap.gitbook.io/grizzly-swap/emission-mechanism/automatic-emission-reduction',
   },
   {
     label: 'RoadMap',
     icon: 'RoadmapIcon',
-    href: '/',
+    href: 'https://grizzlyswap.gitbook.io/grizzly-swap/road-map',
   },
   {
     label: 'Listing (Pending)',
