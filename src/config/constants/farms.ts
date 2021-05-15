@@ -8,12 +8,12 @@ const farms: FarmConfig[] = [
     lpSymbol: 'GRZ-BUSD LP V2',
     lpAddresses: {
       97: '',
-      56: '0x2628f71dd1928a4b39bd5fd4aea37905891229fc',
+      56: '0xfbf806c85fcc0fd166f05c2fd119824f7aaa0fb9',
     },
     tokenSymbol: 'GRZ',
     tokenAddresses: {
       97: '',
-      56: '0xEa5a3BFe81eEAf53ee202D222F3bcd8812eb86f5',
+      56: '0xDf5a096D33dE84b11041A7FF78E7008c328184ab',
     },
     quoteTokenSymbol: QuoteToken.BUSD,
     quoteTokenAdresses: contracts.busd,
@@ -24,12 +24,12 @@ const farms: FarmConfig[] = [
     lpSymbol: 'GRZ-BNB LP V2',
     lpAddresses: {
       97: '',
-      56: '0x55fd2d62430186c7b9022843b58e197a4999b11e',
+      56: '0x63c55167913afd5306a66df7e222d1beafe334cc',
     },
     tokenSymbol: 'GRZ',
     tokenAddresses: {
       97: '',
-      56: '0xEa5a3BFe81eEAf53ee202D222F3bcd8812eb86f5',
+      56: '0xDf5a096D33dE84b11041A7FF78E7008c328184ab',
     },
     quoteTokenSymbol: QuoteToken.BNB,
     quoteTokenAdresses: contracts.wbnb,
@@ -153,12 +153,12 @@ const farms: FarmConfig[] = [
     lpSymbol: 'CAKE-BNB LP V2',
     lpAddresses: {
       97: '',
-      56: '0xDd5bAd8f8b360d76d12FdA230F8BAF42fe0022CF',
+      56: '0x0eD7e52944161450477ee417DE9Cd3a859b14fD0',
     },
     tokenSymbol: 'CAKE',
     tokenAddresses: {
       97: '',
-      56: '0x7083609fce4d1d8dc0c979aab8c869ea2c873402',
+      56: '0x0e09fabb73bd3ade0a17ecc321fd13a19e81ce82',
     },
     quoteTokenSymbol: QuoteToken.BNB,
     quoteTokenAdresses: contracts.wbnb,
@@ -170,12 +170,12 @@ const farms: FarmConfig[] = [
     lpSymbol: 'ADA-BNB LP V2',
     lpAddresses: {
       97: '',
-      56: '0xDd5bAd8f8b360d76d12FdA230F8BAF42fe0022CF',
+      56: '0x28415ff2C35b65B9E5c7de82126b4015ab9d031F',
     },
     tokenSymbol: 'ADA',
     tokenAddresses: {
       97: '',
-      56: '0x7083609fce4d1d8dc0c979aab8c869ea2c873402',
+      56: '0x3ee2200efb3400fabb9aacf31297cbdd1d435d47',
     },
     quoteTokenSymbol: QuoteToken.BNB,
     quoteTokenAdresses: contracts.wbnb,
@@ -188,12 +188,12 @@ const farms: FarmConfig[] = [
     lpSymbol: 'GRZ',
     lpAddresses: {
       97: '',
-      56: '0x2628f71dd1928a4b39bd5fd4aea37905891229fc', // EGG-BUSD LP
+      56: '0xfbf806c85fcc0fd166f05c2fd119824f7aaa0fb9', // EGG-BUSD LP
     },
     tokenSymbol: 'GRZ',
     tokenAddresses: {
       97: '',
-      56: '0xEa5a3BFe81eEAf53ee202D222F3bcd8812eb86f5',
+      56: '0xDf5a096D33dE84b11041A7FF78E7008c328184ab',
     },
     quoteTokenSymbol: QuoteToken.BUSD,
     quoteTokenAdresses: contracts.busd,
@@ -205,7 +205,7 @@ const farms: FarmConfig[] = [
     lpSymbol: 'BUSD',
     lpAddresses: {
       97: '',
-      56: '0x2628f71dd1928a4b39bd5fd4aea37905891229fc', // EGG-BUSD LP (BUSD-BUSD will ignore)
+      56: '0xfbf806c85fcc0fd166f05c2fd119824f7aaa0fb9', // EGG-BUSD LP (BUSD-BUSD will ignore)
     },
     tokenSymbol: 'BUSD',
     tokenAddresses: {
@@ -341,12 +341,12 @@ const farms: FarmConfig[] = [
     lpSymbol: 'CAKE',
     lpAddresses: {
       97: '',
-      56: '0x9fdaab9312084298d210b8789629d3054230e998', // CAKE-BNB LP
+      56: '0x804678fa97d91b974ec2af3c843270886528a9e6', // CAKE-BNB LP
     },
     tokenSymbol: 'CAKE',
     tokenAddresses: {
       97: '',
-      56: '0x7083609fce4d1d8dc0c979aab8c869ea2c873402',
+      56: '0x0e09fabb73bd3ade0a17ecc321fd13a19e81ce82',
     },
     quoteTokenSymbol: QuoteToken.BUSD,
     quoteTokenAdresses: contracts.busd,
@@ -358,12 +358,12 @@ const farms: FarmConfig[] = [
     lpSymbol: 'ADA',
     lpAddresses: {
       97: '',
-      56: '0x28415ff2C35b65B9E5c7de82126b4015ab9d031F', // ADA-BNB LP
+      56: '0x1e249df2f58cbef7eac2b0ee35964ed8311d5623', // ADA-BNB LP
     },
     tokenSymbol: 'ADA',
     tokenAddresses: {
       97: '',
-      56: '0x3ee2200efb3400fabb9aacf31297cbdd1d435d47',
+      56: '0x3EE2200Efb3400fAbB9AacF31297cBdD1d435D47',
     },
     quoteTokenSymbol: QuoteToken.BUSD,
     quoteTokenAdresses: contracts.busd,
