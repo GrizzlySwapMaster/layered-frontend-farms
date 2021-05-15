@@ -352,7 +352,7 @@ const farms: FarmConfig[] = [
     quoteTokenAdresses: contracts.busd,
   },
   {
-    pid: 20,
+    pid: 21,
     risk: 3,
     isTokenOnly: true,
     lpSymbol: 'ADA',
