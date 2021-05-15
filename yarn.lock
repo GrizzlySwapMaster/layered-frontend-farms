@@ -1837,7 +1837,7 @@
 
 "@pancakeswap-libs/uikit@GrizzlySwapMaster/goose-uikit":
   version "0.10.2"
-  resolved "https://codeload.github.com/GrizzlySwapMaster/goose-uikit/tar.gz/21ee1981e93350e4651c69d17e553a324e9a5ff7"
+  resolved "https://codeload.github.com/GrizzlySwapMaster/goose-uikit/tar.gz/cf528028e1aa44ec11cef114a2f9d45add3a2e81"
   dependencies:
     "@types/lodash" "^4.14.162"
     "@types/styled-system" "^5.1.10"
