@@ -38,7 +38,7 @@ const config: MenuEntry[] = [
   },
 
   {
-    label: 'TechRate Audit (Pending)',
+    label: 'TechRate Audit',
     icon: 'AuditIcon',
     href: 'https://github.com/TechRate/Smart-Contract-Audits/blob/main/Grizzly%20Full%20Smart%20Contract%20Security%20Audit.pdf',
   },
