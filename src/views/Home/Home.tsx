@@ -75,7 +75,7 @@ const Home: React.FC = () => {
       <Hero>
         <LogoHeading >GrizzlySwap</LogoHeading>
         <Text color="white" font-size="16px" font-weight="400" line-height="1.5">Your Next Generation Yield Farm. Ready To Hunt and Dominate</Text>
-        <Text color="white" font-size="16px" font-weight="400" line-height="1.5">Fair Launch On: <a href="https://countingdownto.com/?c=3601712">SUN 16TH MAY 9AM GMT</a></Text>
+        <Text color="white" font-size="16px" font-weight="400" line-height="1.5">Fair Launch On: <a href="https://countingdownto.com/?c=3607465">SAT 15TH MAY 5PM GMT</a></Text>
       </Hero>
       <div>
         <Cards>

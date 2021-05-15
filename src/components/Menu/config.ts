@@ -40,7 +40,7 @@ const config: MenuEntry[] = [
   {
     label: 'TechRate Audit (Pending)',
     icon: 'AuditIcon',
-    href: '/',
+    href: 'https://github.com/TechRate/Smart-Contract-Audits/blob/main/Grizzly%20Full%20Smart%20Contract%20Security%20Audit.pdf',
   },
   {
     label: 'Emission Reduction Mechanism',
@@ -53,9 +53,14 @@ const config: MenuEntry[] = [
     href: 'https://grizzlyswap.gitbook.io/grizzly-swap/road-map',
   },
   {
-    label: 'Listing (Pending)',
+    label: 'Listing',
     icon: 'IfoIcon',
-    href: '/',
+    items: [
+      {
+        label: 'Dappradar',
+        href: 'https://dappradar.com/binance-smart-chain/defi/grizzly-swap',
+      }
+    ],
   },
   {
     label: 'Price Chart',
@@ -64,7 +69,11 @@ const config: MenuEntry[] = [
       {
         label: 'PooCoin',
         href: 'https://poocoin.app/tokens/0xdf5a096d33de84b11041a7ff78e7008c328184ab',
-      }
+      },
+      {
+        label: 'CoinHunt',
+        href: 'https://coinhunt.cc/coin/548550324',
+      },
     ],
   },
   
