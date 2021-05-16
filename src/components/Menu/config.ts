@@ -21,12 +21,12 @@ const config: MenuEntry[] = [
     ],
   },
   {
-    label: 'Hunter Farms LAYERED',
+    label: 'Layered Hunter Farms',
     icon: 'FarmIcon',
     href: '/farms',
   },
   {
-    label: 'Prey Staking LAYERED',
+    label: 'Layered Prey Staking',
     icon: 'PoolIcon',
     href: '/pools',
   },
@@ -35,12 +35,6 @@ const config: MenuEntry[] = [
     label: "GRIZZLY HOME (GRZ)",
     icon: 'FarmIcon',
     href: 'https://grizzlyswap.com',
-  },
-
-  {
-    label: 'TechRate Audit',
-    icon: 'AuditIcon',
-    href: 'https://github.com/TechRate/Smart-Contract-Audits/blob/main/Grizzly%20Full%20Smart%20Contract%20Security%20Audit.pdf',
   },
   {
     label: 'Emission Reduction Mechanism',

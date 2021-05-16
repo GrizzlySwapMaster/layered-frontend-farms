@@ -21,12 +21,12 @@ const farms: FarmConfig[] = [
   {
     pid: 1,
     risk: 5,
-    lpSymbol: 'GRZ-BNB LP V2',
+    lpSymbol: 'GRZX-BNB LP V2',
     lpAddresses: {
       97: '',
       56: '0x63c55167913afd5306a66df7e222d1beafe334cc',
     },
-    tokenSymbol: 'GRZ',
+    tokenSymbol: 'GRZX',
     tokenAddresses: {
       97: '',
       56: '0xDf5a096D33dE84b11041A7FF78E7008c328184ab',
