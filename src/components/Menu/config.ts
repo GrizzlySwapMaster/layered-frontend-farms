@@ -4,7 +4,7 @@ const config: MenuEntry[] = [
   {
     label: 'Home',
     icon: 'HomeIcon',
-    href: 'https://grizzlyswap.com',
+    href: 'https://layer.grizzlyswap.com',
   },
   {
     label: 'Trade',
@@ -12,7 +12,7 @@ const config: MenuEntry[] = [
     items: [
       {
         label: 'Exchange',
-        href: 'https://exchange.pancakeswap.finance/#/swap?outputCurrency=0xDf5a096D33dE84b11041A7FF78E7008c328184ab',
+        href: 'https://exchange.pancakeswap.finance/#/swap',
       },
       {
         label: 'Liquidity',
@@ -21,20 +21,20 @@ const config: MenuEntry[] = [
     ],
   },
   {
-    label: 'Hunter Farms (V2 LP)',
+    label: 'Hunter Farms LAYERED',
     icon: 'FarmIcon',
     href: '/farms',
   },
   {
-    label: 'Prey Staking',
+    label: 'Prey Staking LAYERED',
     icon: 'PoolIcon',
     href: '/pools',
   },
 
   {
-    label: "Layered Farming (23RD MAY)",
+    label: "GRIZZLY HOME (GRZ)",
     icon: 'FarmIcon',
-    href: '/',
+    href: 'https://grizzlyswap.com',
   },
 
   {
@@ -46,6 +46,11 @@ const config: MenuEntry[] = [
     label: 'Emission Reduction Mechanism',
     icon: 'GroupsIcon',
     href: 'https://grizzlyswap.gitbook.io/grizzly-swap/emission-mechanism/automatic-emission-reduction',
+  },
+  {
+    label: 'Anti-Whale Mechanism',
+    icon: 'GroupsIcon',
+    href: '/',
   },
   {
     label: 'RoadMap',
@@ -68,7 +73,7 @@ const config: MenuEntry[] = [
     items: [
       {
         label: 'PooCoin',
-        href: 'https://poocoin.app/tokens/0xdf5a096d33de84b11041a7ff78e7008c328184ab',
+        href: '/',
       },
       {
         label: 'CoinHunt',

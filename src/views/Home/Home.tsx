@@ -73,9 +73,9 @@ const Home: React.FC = () => {
   return (
     <Page>
       <Hero>
-        <LogoHeading >GrizzlySwap</LogoHeading>
+        <LogoHeading >GrizzlySwap LAYERED FARMING</LogoHeading>
         <Text color="white" font-size="16px" font-weight="400" line-height="1.5">Your Next Generation Yield Farm. Ready To Hunt and Dominate</Text>
-        <Text color="white" font-size="16px" font-weight="400" line-height="1.5">Farming will start on<a href="https://bscscan.com/block/countdown/7446000">Block 7446000</a></Text>
+        <Text color="white" font-size="16px" font-weight="400" line-height="1.5">Farming will start on<a href="https://bscscan.com/block/countdown/7446000">Block</a></Text>
       </Hero>
       <div>
         <Cards>
@@ -84,7 +84,6 @@ const Home: React.FC = () => {
           <CakeStats />
           <TotalValueLockedCard />
           <Rules />
-          <ContractAddress />
         </Cards>
       </div>
     </Page>

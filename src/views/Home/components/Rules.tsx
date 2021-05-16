@@ -38,10 +38,12 @@ const Rules = () => {
           Information and Rules
         </Heading>
         <ul>
-          <Row><li> Pending Audit by TechRate </li></Row>
+          <Row><li> Audited By Techrate </li></Row>
+          <Row><li> Layered Farming. Earn GRZX with GRZ </li></Row>
           <Row><li> Buyback and Burn Mechanism </li></Row>
           <Row><li> Deflationary Mechanism with 2% Transfer Tax </li></Row>
           <Row><li> Automatic Emission Reduction  </li></Row>
+          <Row><li> Anti-Whale Mechanism</li></Row>
           <Row><li> Initital Liquidity Will Be Burned </li></Row>
           <Row><li> 1/4 of the desposit fees used for buybacks </li></Row>
           <Row><li> Migrator Code Removed </li></Row>
