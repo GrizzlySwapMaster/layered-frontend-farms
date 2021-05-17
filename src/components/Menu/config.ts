@@ -70,8 +70,8 @@ const config: MenuEntry[] = [
         href: 'https://www.dextools.io/app/pancakeswap/pair-explorer/0x78272d2c10ce553ab4de9b39156bb49ef45330c8',
       },
       {
-        label: 'CoinHunt',
-        href: 'https://coinhunt.cc/coin/548550324',
+        label: 'PooCoin',
+        href: 'https://poocoin.app/tokens/0xb04bbfb6207a1bacff4ff62c34d6891b8bb3d18b',
       },
     ],
   },
