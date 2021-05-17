@@ -75,7 +75,7 @@ const Home: React.FC = () => {
       <Hero>
         <LogoHeading >GrizzlySwap LAYERED FARMING</LogoHeading>
         <Text color="white" font-size="16px" font-weight="400" line-height="1.5">Your Next Generation Yield Farm. Ready To Hunt and Dominate</Text>
-        <Text color="white" font-size="16px" font-weight="400" line-height="1.5">Farming will start on<a href="https://bscscan.com/block/countdown/7446000">Block</a></Text>
+        <Text color="white" font-size="16px" font-weight="400" line-height="1.5">Farming will start on <a href="https://bscscan.com/block/countdown/7482700">Block 7482700</a></Text>
       </Hero>
       <div>
         <Cards>

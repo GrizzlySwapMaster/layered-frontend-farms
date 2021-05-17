@@ -8,12 +8,12 @@ const farms: FarmConfig[] = [
     lpSymbol: 'GRZX-BUSD LP V2',
     lpAddresses: {
       97: '',
-      56: '0xfbf806c85fcc0fd166f05c2fd119824f7aaa0fb9',
+      56: '0xb3632647c8fc760756f4c2a2c672b336f835aa79',
     },
     tokenSymbol: 'GRZX',
     tokenAddresses: {
       97: '',
-      56: '0xDf5a096D33dE84b11041A7FF78E7008c328184ab',
+      56: '0xB04BbfB6207a1bacfF4Ff62C34d6891B8BB3d18b',
     },
     quoteTokenSymbol: QuoteToken.BUSD,
     quoteTokenAdresses: contracts.busd,
@@ -24,12 +24,12 @@ const farms: FarmConfig[] = [
     lpSymbol: 'GRZX-BNB LP V2',
     lpAddresses: {
       97: '',
-      56: '0x63c55167913afd5306a66df7e222d1beafe334cc',
+      56: '0x78272d2c10ce553ab4de9b39156bb49ef45330c8',
     },
     tokenSymbol: 'GRZX',
     tokenAddresses: {
       97: '',
-      56: '0xDf5a096D33dE84b11041A7FF78E7008c328184ab',
+      56: '0xB04BbfB6207a1bacfF4Ff62C34d6891B8BB3d18b',
     },
     quoteTokenSymbol: QuoteToken.BNB,
     quoteTokenAdresses: contracts.wbnb,
@@ -42,7 +42,7 @@ const farms: FarmConfig[] = [
       97: '',
       56: '0xfbf806c85fcc0fd166f05c2fd119824f7aaa0fb9',
     },
-    tokenSymbol: 'GRZX',
+    tokenSymbol: 'GRZ',
     tokenAddresses: {
       97: '',
       56: '0xDf5a096D33dE84b11041A7FF78E7008c328184ab',
@@ -58,7 +58,7 @@ const farms: FarmConfig[] = [
       97: '',
       56: '0x63c55167913afd5306a66df7e222d1beafe334cc',
     },
-    tokenSymbol: 'GRZX',
+    tokenSymbol: 'GRZ',
     tokenAddresses: {
       97: '',
       56: '0xDf5a096D33dE84b11041A7FF78E7008c328184ab',
@@ -220,12 +220,12 @@ const farms: FarmConfig[] = [
     lpSymbol: 'GRZX',
     lpAddresses: {
       97: '',
-      56: '0xfbf806c85fcc0fd166f05c2fd119824f7aaa0fb9', // EGG-BUSD LP
+      56: '0xb3632647c8fc760756f4c2a2c672b336f835aa79', // EGG-BUSD LP
     },
     tokenSymbol: 'GRZX',
     tokenAddresses: {
       97: '',
-      56: '0xDf5a096D33dE84b11041A7FF78E7008c328184ab',
+      56: '0xB04BbfB6207a1bacfF4Ff62C34d6891B8BB3d18b',
     },
     quoteTokenSymbol: QuoteToken.BUSD,
     quoteTokenAdresses: contracts.busd,
