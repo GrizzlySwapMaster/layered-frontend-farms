@@ -26,7 +26,7 @@ const StyledLinkExternal = styled(LinkExternal)`
   color: ${({ theme }) => theme.colors.text};
   display: flex;
   align-items: center;
-
+        
   svg {
     padding-left: 4px;
     height: 18px;
