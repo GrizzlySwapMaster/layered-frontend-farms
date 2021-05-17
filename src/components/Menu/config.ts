@@ -66,8 +66,8 @@ const config: MenuEntry[] = [
     icon: 'InfoIcon',
     items: [
       {
-        label: 'PooCoin',
-        href: '/',
+        label: 'Dextools',
+        href: 'https://www.dextools.io/app/pancakeswap/pair-explorer/0x78272d2c10ce553ab4de9b39156bb49ef45330c8',
       },
       {
         label: 'CoinHunt',
