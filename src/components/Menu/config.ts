@@ -21,14 +21,28 @@ const config: MenuEntry[] = [
     ],
   },
   {
-    label: 'Layered Hunter Farms',
+    label: 'Layered 1 Hunter Farms',
     icon: 'FarmIcon',
     href: '/farms',
   },
   {
-    label: 'Layered Prey Staking',
+    label: 'Layered 2 Prey Staking',
     icon: 'PoolIcon',
     href: '/pools',
+  },
+  {
+    label: 'Layered Farming',
+    icon: 'IfoIcon',
+    items: [
+      {
+        label: 'Layer 1 (GRZX)',
+        href: 'https://layer.grizzlyswap.com',
+      },
+      {
+        label: 'Layer 2 (BEAR2)',
+        href: 'https://layer2.grizzlyswap.com'
+      },
+    ],
   },
 
   {
