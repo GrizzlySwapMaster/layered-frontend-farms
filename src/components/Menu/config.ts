@@ -32,7 +32,7 @@ const config: MenuEntry[] = [
   },
   {
     label: 'Layered Farming',
-    icon: 'IfoIcon',
+    icon: 'LayerIcon',
     items: [
       {
         label: 'Layer 1 (GRZX)',
@@ -46,9 +46,19 @@ const config: MenuEntry[] = [
   },
 
   {
-    label: "GRIZZLY HOME (GRZ)",
+    label: "Grizzly Home (GRZ)",
     icon: 'FarmIcon',
     href: 'https://grizzlyswap.com',
+  },
+  {
+    label: 'Partnership (Cross Farm)',
+    icon: 'GroupIcon',
+    items: [
+      {
+        label: 'EagelSwap',
+        href: 'https://www.eagleswapdefi.com/',
+      }
+    ],
   },
   {
     label: 'Emission Reduction Mechanism',
@@ -72,6 +82,10 @@ const config: MenuEntry[] = [
       {
         label: 'Dappradar',
         href: 'https://dappradar.com/binance-smart-chain/defi/grizzly-swap',
+      },
+      {
+        label: 'VFAT',
+        href: 'https://vfat.tools/bsc/grizzly/',
       }
     ],
   },
@@ -85,7 +99,7 @@ const config: MenuEntry[] = [
       },
       {
         label: 'PooCoin',
-        href: 'https://poocoin.app/tokens/0xb04bbfb6207a1bacff4ff62c34d6891b8bb3d18b',
+        href: 'https://poocoin.app/tokens/0xB04BbfB6207a1bacfF4Ff62C34d6891B8BB3d18b',
       },
     ],
   },
